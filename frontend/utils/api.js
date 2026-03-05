@@ -1,16 +1,32 @@
-const BASE_URL = "http://127.0.0.1:8000/firstaid"; // Replace with your backend URL if deployed
+// frontend/utils/api.js
+export const BASE_URL = "http://127.0.0.1:8000"; // correct colon
 
 export async function fetchGuidance() {
-  const res = await fetch(`${BASE_URL}/guidance`);
-  return res.json();
+  try {
+    const res = await fetch(`${BASE_URL}/guidance`);
+    return await res.json();
+  } catch (err) {
+    console.error("Failed to fetch guidance:", err);
+    return null;
+  }
 }
 
 export async function fetchSymptoms() {
-  const res = await fetch(`${BASE_URL}/symptoms`);
-  return res.json();
+  try {
+    const res = await fetch(`${BASE_URL}/symptoms`);
+    return await res.json();
+  } catch (err) {
+    console.error("Failed to fetch symptoms:", err);
+    return null;
+  }
 }
 
 export async function fetchTreatment() {
-  const res = await fetch(`${BASE_URL}/treatment`);
-  return res.json();
+  try {
+    const res = await fetch(`${BASE_URL}/treatment`);
+    return await res.json();
+  } catch (err) {
+    console.error("Failed to fetch treatment:", err);
+    return null;
+  }
 }

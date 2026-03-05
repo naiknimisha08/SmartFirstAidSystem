@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Allergic Reaction",
+    "type": "allergic_reaction",
+    "description": "A sudden response by the immune system to allergens such as food, insect bites, or medications.",
+    "symptoms": ["Rash", "Itching", "Swelling", "Difficulty breathing"],
+    "immediate_steps": ["Remove allergen if possible", "Take antihistamine if available", "Call emergency services if breathing difficulty occurs", "Use epinephrine auto-injector if prescribed"]
+  },
+  {
+    "name": "Asthma Attack",
+    "type": "asthma_attack",
+    "description": "Sudden narrowing of airways leading to breathing difficulty.",
+    "symptoms": ["Wheezing", "Shortness of breath", "Chest tightness", "Coughing"],
+    "immediate_steps": ["Sit person upright", "Use prescribed inhaler", "Stay calm and monitor breathing", "Call emergency services if symptoms worsen"]
+  },
+  {
+    "name": "Bee Sting",
+    "type": "bee_sting",
+    "description": "Sting from a bee causing pain and possible allergic reaction.",
+    "symptoms": ["Pain", "Redness", "Swelling", "Itching"],
+    "immediate_steps": ["Remove stinger carefully", "Wash area with soap and water", "Apply cold pack to reduce swelling", "Take antihistamine if necessary"]
+  },
+  {
+    "name": "Blisters",
+    "type": "blisters",
+    "description": "Fluid-filled bumps on skin caused by friction, burns, or irritation.",
+    "symptoms": ["Pain", "Redness", "Fluid-filled bump"],
+    "immediate_steps": ["Clean area gently", "Cover with sterile dressing", "Do not pop blister", "Seek medical help if infection occurs"]
+  },
+  {
+    "name": "Dehydration",
+    "type": "dehydration",
+    "description": "Loss of body fluids leading to imbalance in electrolytes.",
+    "symptoms": ["Thirst", "Dry mouth", "Dizziness", "Low urine output"],
+    "immediate_steps": ["Give water or oral rehydration solution", "Move to cool area", "Monitor for worsening symptoms", "Seek medical care if severe"]
+  },
+  {
+    "name": "Heat Exhaustion",
+    "type": "heat_exhaustion",
+    "description": "Body overheats due to prolonged exposure to high temperatures.",
+    "symptoms": ["Heavy sweating", "Weakness", "Dizziness", "Nausea"],
+    "immediate_steps": ["Move person to a cooler place", "Loosen clothing", "Give water", "Use cold compress on neck and head", "Call medical help if symptoms persist"]
+  },
+  {
+    "name": "Hypothermia",
+    "type": "hypothermia",
+    "description": "Dangerously low body temperature due to prolonged cold exposure.",
+    "symptoms": ["Shivering", "Confusion", "Slurred speech", "Slow breathing"],
+    "immediate_steps": ["Move to warm place", "Remove wet clothing", "Wrap in blankets", "Give warm fluids if conscious", "Call emergency services immediately"]
+  },
+  {
+    "name": "Seizure",
+    "type": "seizure",
+    "description": "Sudden uncontrolled electrical disturbance in the brain causing convulsions.",
+    "symptoms": ["Loss of consciousness", "Jerking movements", "Confusion post-seizure", "Drooling or frothing"],
+    "immediate_steps": ["Place person on side", "Protect from injury", "Do not restrain", "Do not put anything in mouth", "Call emergency services if first seizure or lasts >5 minutes"]
+  },
+  {
+    "name": "Eye Injury",
+    "type": "eye_injury",
+    "description": "Trauma or foreign object in the eye causing pain or vision issues.",
+    "symptoms": ["Pain", "Redness", "Tearing", "Blurred vision"],
+    "immediate_steps": ["Do not rub eye", "Rinse gently with clean water or saline", "Cover with eye shield if necessary", "Seek medical care immediately"]
+  },
+  {
+    "name": "Burning Eyes (Chemical Exposure)",
+    "type": "chemical_eye_burn",
+    "description": "Chemical substance contacts the eye causing irritation or damage.",
+    "symptoms": ["Severe pain", "Redness", "Tearing", "Swelling"],
+    "immediate_steps": ["Flush eye with plenty of clean water for 15-20 minutes", "Remove contact lenses if present", "Seek emergency care immediately"]
+  },
+  {
+    "name": "Splinters",
+    "type": "splinters",
+    "description": "Small piece of material embedded in skin.",
+    "symptoms": ["Pain", "Redness", "Swelling"],
+    "immediate_steps": ["Wash hands and area", "Remove splinter with sterilized tweezers", "Clean area with antiseptic", "Cover with bandage if necessary"]
+  },
+  {
+    "name": "Nose Fracture",
+    "type": "nose_fracture",
+    "description": "Break in the bones of the nose due to trauma.",
+    "symptoms": ["Pain", "Swelling", "Bruising", "Deformity", "Bleeding"],
+    "immediate_steps": ["Keep person upright", "Apply cold compress", "Do not try to straighten nose", "Seek medical care immediately"]
+  },
+  {
+    "name": "Fainting (Syncope)",
+    "type": "fainting",
+    "description": "Temporary loss of consciousness caused by decreased blood flow to the brain.",
+    "symptoms": ["Dizziness", "Pale skin", "Loss of consciousness", "Weak pulse"],
+    "immediate_steps": ["Lay person flat and elevate legs", "Loosen tight clothing", "Ensure airway is clear", "Seek medical attention if recurrent or prolonged"]
+  },
+  {
+    "name": "Insect Bite (Non-Allergic)",
+    "type": "insect_bite",
+    "description": "Bites from insects causing mild irritation or swelling.",
+    "symptoms": ["Redness", "Itching", "Swelling", "Pain"],
+    "immediate_steps": ["Wash area with soap and water", "Apply cold pack to reduce swelling", "Use antihistamine cream if needed", "Monitor for allergic reactions"]
+  },
+  {
+    "name": "Ear Injury",
+    "type": "ear_injury",
+    "description": "Trauma or foreign object in the ear.",
+    "symptoms": ["Pain", "Bleeding", "Discharge", "Hearing loss"],
+    "immediate_steps": ["Do not insert objects into ear", "Clean outer ear gently", "Seek medical attention for foreign objects or severe pain"]
+  },
+  {
+    "name": "Chilblains",
+    "type": "chilblains",
+    "description": "Skin sores caused by repeated exposure to cold, non-freezing temperatures.",
+    "symptoms": ["Redness", "Swelling", "Itching", "Pain"],
+    "immediate_steps": ["Move to warmer environment", "Avoid scratching", "Apply warm compress", "Seek care if infection occurs"]
+  },
+  {
+    "name": "Sprained Ankle",
+    "type": "sprained_ankle",
+    "description": "Injury to ligaments of the ankle due to twisting or overstretching.",
+    "symptoms": ["Pain", "Swelling", "Bruising", "Limited mobility"],
+    "immediate_steps": ["Rest and avoid weight on ankle", "Apply ice pack", "Compress with elastic bandage", "Elevate leg", "Seek medical attention if severe"]
+  },
+  {
+    "name": "Blunt Head Injury",
+    "type": "head_injury",
+    "description": "Injury to the head without penetration of the skull.",
+    "symptoms": ["Pain", "Swelling", "Confusion", "Nausea", "Dizziness"],
+    "immediate_steps": ["Monitor consciousness", "Apply cold pack to swelling", "Seek medical evaluation immediately if loss of consciousness or vomiting occurs"]
+  },
+  {
+    "name": "Poisoning (Household Chemicals)",
+    "type": "chemical_poisoning",
+    "description": "Ingestion, inhalation, or skin exposure to toxic household chemicals.",
+    "symptoms": ["Nausea", "Vomiting", "Burning sensation", "Dizziness", "Difficulty breathing"],
+    "immediate_steps": ["Remove person from exposure", "Do not induce vomiting unless advised", "Rinse skin or eyes if exposed", "Call poison control or emergency services immediately"]
+  },
+  {
+    "name": "Chapped Lips / Frostbite (Mild)",
+    "type": "frostbite_mild",
+    "description": "Mild frostbite or cold damage to lips, fingers, or toes.",
+    "symptoms": ["Redness", "Pain", "Tingling", "Swelling"],
+    "immediate_steps": ["Move to warm environment", "Warm area with body heat or lukewarm water", "Do not rub affected area", "Seek medical care if severe"]
+  },
+  {
+    "name": "Sunburn",
+    "type": "sunburn",
+    "description": "Skin damage caused by excessive exposure to UV rays.",
+    "symptoms": ["Redness", "Pain", "Swelling", "Peeling skin"],
+    "immediate_steps": ["Move to shade or indoors", "Apply cool compress", "Use aloe vera or soothing lotion", "Stay hydrated", "Seek medical care if severe"]
+  },
+  {
+    "name": "Nail Injury",
+    "type": "nail_injury",
+    "description": "Trauma to fingernails or toenails causing pain or bleeding.",
+    "symptoms": ["Pain", "Bleeding", "Swelling", "Bruising"],
+    "immediate_steps": ["Clean area gently", "Apply pressure to stop bleeding", "Cover with sterile dressing", "Seek medical attention if nail is severely damaged"]
+  },
+  {
+    "name": "Animal Scratch",
+    "type": "animal_scratch",
+    "description": "Scratch caused by an animal, risk of infection.",
+    "symptoms": ["Pain", "Redness", "Swelling", "Bleeding"],
+    "immediate_steps": ["Clean area with soap and water", "Apply antiseptic", "Cover with sterile dressing", "Seek medical care if signs of infection appear"]
+  },
+  {
+    "name": "Electric Shock (Mild)",
+    "type": "electric_shock",
+    "description": "Exposure to electricity causing minor injury.",
+    "symptoms": ["Pain", "Muscle twitching", "Burn marks", "Numbness"],
+    "immediate_steps": ["Disconnect source safely", "Check responsiveness", "Monitor for burns or cardiac symptoms", "Seek medical care if symptoms persist"]
+  },
+  {
+    "name": "Nail Puncture",
+    "type": "nail_puncture",
+    "description": "Penetrating injury from nails or sharp objects.",
+    "symptoms": ["Pain", "Bleeding", "Redness", "Swelling"],
+    "immediate_steps": ["Wash area thoroughly", "Apply antiseptic", "Cover with sterile dressing", "Seek medical attention for tetanus shot if necessary"]
+  },
+  {
+    "name": "Ingrown Toenail",
+    "type": "ingrown_toenail",
+    "description": "Toenail grows into surrounding skin causing pain and swelling.",
+    "symptoms": ["Pain", "Redness", "Swelling", "Infection"],
+    "immediate_steps": ["Soak foot in warm water", "Avoid tight footwear", "Lift nail gently if possible", "Seek medical care if infected"]
+  },
+  {
+    "name": "Sprained Wrist",
+    "type": "sprained_wrist",
+    "description": "Injury to wrist ligaments due to twisting or fall.",
+    "symptoms": ["Pain", "Swelling", "Bruising", "Limited movement"],
+    "immediate_steps": ["Rest wrist", "Apply ice", "Compress with bandage", "Elevate hand", "Seek medical evaluation if severe"]
+  },
+  {
+    "name": "Cramps (Muscle)",
+    "type": "muscle_cramp",
+    "description": "Sudden involuntary contraction of a muscle.",
+    "symptoms": ["Sharp pain", "Tightness", "Difficulty moving muscle"],
+    "immediate_steps": ["Stretch affected muscle gently", "Massage muscle", "Apply warm compress", "Hydrate with water or electrolytes"]
+  },
+  {
+    "name": "Spider Bite",
+    "type": "spider_bite",
+    "description": "Bite from a spider causing local reaction or systemic symptoms.",
+    "symptoms": ["Pain", "Redness", "Swelling", "Itching", "Blistering"],
+    "immediate_steps": ["Clean bite with soap and water", "Apply cold pack", "Monitor for systemic symptoms", "Seek medical care if severe or spider is venomous"]
+  },
+  {
+    "name": "Foreign Object in Eye",
+    "type": "foreign_object_eye",
+    "description": "Dust, dirt, or small particle in eye.",
+    "symptoms": ["Pain", "Redness", "Tearing", "Blurred vision"],
+    "immediate_steps": ["Do not rub eye", "Rinse with clean water or saline", "Blink several times", "Seek medical care if object does not flush out"]
+  },
+  {
+    "name": "Blunt Chest Injury",
+    "type": "chest_injury",
+    "description": "Impact to chest causing pain and possible breathing difficulty.",
+    "symptoms": ["Pain", "Bruising", "Difficulty breathing", "Swelling"],
+    "immediate_steps": ["Keep person calm and upright", "Apply ice pack to reduce swelling", "Monitor breathing and consciousness", "Seek medical attention immediately"]
+  },
+  {
+    "name": "Burning Tongue",
+    "type": "burning_tongue",
+    "description": "Pain from eating hot food or liquid.",
+    "symptoms": ["Pain", "Redness", "Swelling", "Difficulty speaking"],
+    "immediate_steps": ["Rinse mouth with cool water", "Suck on ice chips", "Avoid hot/spicy foods temporarily", "Seek medical care if blistering occurs"]
+  },
+  {
+    "name": "Choking on Small Object",
+    "type": "choking_object",
+    "description": "Airway obstruction due to small objects like coins or toys.",
+    "symptoms": ["Coughing", "Difficulty breathing", "Inability to speak"],
+    "immediate_steps": ["Encourage coughing if possible", "Perform Heimlich maneuver if needed", "Call emergency services immediately if severe"]
+  },
+  {
+    "name": "Burned Lips",
+    "type": "burned_lips",
+    "description": "Mild burn to lips from hot food or liquid.",
+    "symptoms": ["Pain", "Redness", "Swelling"],
+    "immediate_steps": ["Rinse with cool water", "Apply cold compress", "Avoid hot foods", "Seek medical help if blistering occurs"]
+  },
+  {
+    "name": "Nose Foreign Object",
+    "type": "nose_foreign",
+    "description": "Small object inserted into nostril causing discomfort.",
+    "symptoms": ["Pain", "Redness", "Bleeding", "Difficulty breathing"],
+    "immediate_steps": ["Do not probe deeply", "Try to blow object out gently", "Seek medical help if object is stuck or breathing difficulty occurs"]
+  },
+  {
+    "name": "Bee Allergy (Severe)",
+    "type": "bee_allergy",
+    "description": "Severe allergic reaction to bee sting.",
+    "symptoms": ["Swelling", "Difficulty breathing", "Hives", "Dizziness"],
+    "immediate_steps": ["Use epinephrine auto-injector if prescribed", "Call emergency services immediately", "Keep person calm and lying down"]
+  },
+  {
+    "name": "Hypoglycemia",
+    "type": "hypoglycemia",
+    "description": "Low blood sugar in diabetic or non-diabetic persons.",
+    "symptoms": ["Sweating", "Shaking", "Dizziness", "Confusion", "Hunger"],
+    "immediate_steps": ["Give fast-acting sugar (juice, candy)", "Monitor symptoms", "Call medical help if unconscious"]
+  },
+  {
+    "name": "Heat Stroke",
+    "type": "heat_stroke",
+    "description": "Severe overheating of the body causing organ damage.",
+    "symptoms": ["Hot, dry skin", "Confusion", "Rapid pulse", "Loss of consciousness"],
+    "immediate_steps": ["Move to cool environment", "Remove excess clothing", "Cool body with water or ice packs", "Call emergency services immediately"]
+  },
+  {
+    "name": "Tick Bite",
+    "type": "tick_bite",
+    "description": "Bite from a tick which may transmit infection.",
+    "symptoms": ["Redness", "Itching", "Pain", "Rash"],
+    "immediate_steps": ["Remove tick carefully with tweezers", "Clean area with antiseptic", "Monitor for fever or rash", "Seek medical care if symptoms occur"]
+  },
+  {
+    "name": "Bruise (Contusion)",
+    "type": "bruise",
+    "description": "Discoloration of skin due to trauma without breaking skin.",
+    "symptoms": ["Pain", "Red or purple mark", "Swelling"],
+    "immediate_steps": ["Apply cold compress", "Rest the injured area", "Monitor for severe swelling or increased pain", "Seek medical attention if needed"]
+  },
+  {
+    "name": "Foreign Object in Ear",
+    "type": "ear_foreign_object",
+    "description": "Small objects like beads or insects entering the ear canal.",
+    "symptoms": ["Pain", "Discomfort", "Hearing loss", "Tearing"],
+    "immediate_steps": ["Do not probe the ear with tools", "Tilt head to try to dislodge gently", "Seek medical attention if object does not come out or pain persists"]
+  },
+  {
+    "name": "Mild Concussion",
+    "type": "mild_concussion",
+    "description": "Head injury causing temporary confusion or dizziness.",
+    "symptoms": ["Dizziness", "Headache", "Confusion", "Nausea"],
+    "immediate_steps": ["Rest in a quiet place", "Avoid strenuous activity", "Monitor for worsening symptoms", "Seek medical evaluation if symptoms persist"]
+  },
+  {
+    "name": "Ingrown Hair",
+    "type": "ingrown_hair",
+    "description": "Hair grows back into the skin causing inflammation.",
+    "symptoms": ["Red bump", "Pain", "Itching", "Swelling"],
+    "immediate_steps": ["Clean area with antiseptic", "Avoid shaving the area temporarily", "Do not squeeze or pick bump", "Seek medical help if infected"]
+  },
+  {
+    "name": "Lip Laceration",
+    "type": "lip_laceration",
+    "description": "Cut or tear on the lip caused by trauma.",
+    "symptoms": ["Bleeding", "Pain", "Swelling", "Difficulty speaking"],
+    "immediate_steps": ["Apply gentle pressure to stop bleeding", "Clean with saline or antiseptic", "Cover with sterile gauze", "Seek medical care if deep or bleeding persists"]
+  },
+  {
+    "name": "Blistered Feet",
+    "type": "blistered_feet",
+    "description": "Painful fluid-filled bumps caused by friction or footwear.",
+    "symptoms": ["Pain", "Redness", "Swelling", "Fluid-filled bumps"],
+    "immediate_steps": ["Clean gently", "Apply protective bandage or blister pad", "Avoid walking barefoot", "Do not pop blisters"]
+  },
+  {
+    "name": "Severe Itching (Dermatitis)",
+    "type": "dermatitis",
+    "description": "Inflammation of the skin causing intense itching and redness.",
+    "symptoms": ["Redness", "Itching", "Swelling", "Dry skin"],
+    "immediate_steps": ["Apply cool compress", "Use soothing lotion or anti-itch cream", "Avoid scratching", "Seek medical help if severe or persistent"]
+  },
+  {
+    "name": "Hangnail Infection",
+    "type": "hangnail_infection",
+    "description": "Infection around a torn piece of skin near fingernail.",
+    "symptoms": ["Redness", "Swelling", "Pain", "Pus formation"],
+    "immediate_steps": ["Soak finger in warm water", "Apply antiseptic", "Cover with sterile dressing", "Seek medical care if infection worsens"]
+  },
+  {
+    "name": "Minor Burns from Hot Liquids",
+    "type": "hot_liquid_burn",
+    "description": "Burn caused by hot drinks, oil, or soup.",
+    "symptoms": ["Redness", "Pain", "Blistering"],
+    "immediate_steps": ["Cool with running water for 10-15 minutes", "Cover with sterile dressing", "Avoid ice directly on skin", "Seek medical help if severe"]
+  },
+  {
+    "name": "Fingertip Laceration",
+    "type": "fingertip_laceration",
+    "description": "Small cuts on fingertips from knives, glass, or tools.",
+    "symptoms": ["Bleeding", "Pain", "Swelling"],
+    "immediate_steps": ["Wash hands and wound", "Apply pressure to stop bleeding", "Cover with bandage", "Seek medical care if cut is deep"]
+  },
+  {
+    "name": "Mild Frostbite on Hands",
+    "type": "frostbite_hands",
+    "description": "Cold injury causing tingling and numbness in fingers.",
+    "symptoms": ["Numbness", "Redness", "Tingling", "Pain"],
+    "immediate_steps": ["Move to warm environment", "Warm hands gradually with body heat or lukewarm water", "Do not rub", "Seek medical care if severe"]
+  },
+  {
+    "name": "Skin Rash from Plant Contact",
+    "type": "plant_rash",
+    "description": "Irritation caused by contact with plants like poison ivy.",
+    "symptoms": ["Redness", "Itching", "Blisters", "Swelling"],
+    "immediate_steps": ["Wash area with soap and water", "Apply anti-itch cream", "Avoid scratching", "Seek medical care if widespread or infected"]
+  },
+  {
+    "name": "Minor Eye Irritation from Dust",
+    "type": "eye_dust",
+    "description": "Eye discomfort due to dust or small particles.",
+    "symptoms": ["Redness", "Tearing", "Pain", "Itching"],
+    "immediate_steps": ["Do not rub eye", "Rinse with clean water or saline", "Blink frequently", "Seek medical care if object persists"]
+  },
+  {
+    "name": "Finger Jam",
+    "type": "finger_jam",
+    "description": "Injury to finger joints from impact or collision.",
+    "symptoms": ["Pain", "Swelling", "Bruising", "Difficulty moving finger"],
+    "immediate_steps": ["Rest finger", "Apply ice pack", "Compress with elastic bandage", "Elevate hand", "Seek medical care if severe"]
+  },
+  {
+    "name": "Chapped Skin",
+    "type": "chapped_skin",
+    "description": "Dry, cracked skin caused by cold, wind, or frequent washing.",
+    "symptoms": ["Dryness", "Redness", "Cracks", "Pain"],
+    "immediate_steps": ["Apply moisturizing cream", "Protect skin from harsh environment", "Avoid irritants", "Seek medical care if infection occurs"]
+  },
+  {
+    "name": "Minor Bruising of Arm",
+    "type": "arm_bruise",
+    "description": "Discoloration and swelling from a minor bump or hit.",
+    "symptoms": ["Pain", "Red/purple mark", "Swelling"],
+    "immediate_steps": ["Apply cold compress", "Rest affected area", "Monitor for worsening", "Seek medical care if severe"]
+  },
+  {
+    "name": "Bee Sting (Non-Allergic)",
+    "type": "bee_sting_mild",
+    "description": "Painful sting from a bee with localized reaction only.",
+    "symptoms": ["Pain", "Redness", "Swelling", "Itching"],
+    "immediate_steps": ["Remove stinger if present", "Wash area with soap and water", "Apply cold compress", "Take antihistamine if needed"]
+  },
+  {
+    "name": "Splinter from Wood",
+    "type": "splinter_wood",
+    "description": "Small piece of wood embedded in skin.",
+    "symptoms": ["Pain", "Redness", "Swelling"],
+    "immediate_steps": ["Wash hands and area", "Remove splinter with sterilized tweezers", "Clean wound", "Cover with bandage"]
+  },
+  {
+    "name": "Minor Toothache",
+    "type": "toothache_mild",
+    "description": "Pain in a tooth due to cavity or irritation.",
+    "symptoms": ["Pain", "Sensitivity", "Swelling of gums"],
+    "immediate_steps": ["Rinse mouth with warm water", "Use cold compress externally", "Take over-the-counter pain reliever if needed", "See dentist if persists"]
+  },
+  {
+    "name": "Burning Hands from Hot Object",
+    "type": "hot_object_burn",
+    "description": "Mild burn caused by touching hot objects.",
+    "symptoms": ["Pain", "Redness", "Blisters"],
+    "immediate_steps": ["Cool area with running water", "Cover with sterile dressing", "Do not break blisters", "Seek medical care if severe"]
+  },
+  {
+    "name": "Minor Lip Swelling",
+    "type": "lip_swelling",
+    "description": "Swelling of lips due to minor injury or irritation.",
+    "symptoms": ["Swelling", "Pain", "Redness"],
+    "immediate_steps": ["Apply cold compress", "Avoid further irritation", "Take antihistamine if allergic reaction", "Seek medical help if severe or persistent"]
+  }
+]

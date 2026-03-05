@@ -1,0 +1,2882 @@
+[
+  {
+    "name": "Burn Case 1",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 2",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 3",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 4",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 5",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 6",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 7",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 8",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 9",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 10",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 11",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 12",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 13",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 14",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 15",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 16",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 17",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 18",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 19",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 20",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 21",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 22",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 23",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 24",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 25",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 26",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 27",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 28",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 29",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 30",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 31",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 32",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 33",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 34",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 35",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 36",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 37",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 38",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 39",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 40",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 41",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 42",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 43",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 44",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 45",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 46",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 47",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 48",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 49",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 50",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 51",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 52",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 53",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 54",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 55",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 56",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 57",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 58",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 59",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 60",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 61",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 62",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 63",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 64",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 65",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 66",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 67",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 68",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 69",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 70",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 71",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 72",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 73",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 74",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 75",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 76",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 77",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 78",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 79",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 80",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 81",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 82",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 83",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 84",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 85",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 86",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 87",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 88",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 89",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 90",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 91",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 92",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 93",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 94",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 95",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 96",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 97",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 98",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 99",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 100",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 101",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 102",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 103",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 104",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 105",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 106",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 107",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 108",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 109",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 110",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 111",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 112",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 113",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 114",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 115",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 116",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 117",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 118",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 119",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 120",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 121",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 122",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 123",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 124",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 125",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 126",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 127",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 128",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 129",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 130",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 131",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 132",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 133",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 134",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 135",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 136",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 137",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 138",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 139",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 140",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 141",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 142",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 143",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 144",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 145",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 146",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 147",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 148",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 149",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 150",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 151",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 152",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 153",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 154",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 155",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 156",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 157",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 158",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 159",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 160",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 161",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 162",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 163",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 164",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 165",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 166",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 167",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 168",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 169",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 170",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 171",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 172",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 173",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 174",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 175",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 176",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 177",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 178",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 179",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 180",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 181",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 182",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 183",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 184",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 185",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 186",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 187",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 188",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 189",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 190",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  },
+  {
+    "name": "Burn Case 191",
+    "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+    "symptoms": [
+      "Redness",
+      "Blisters",
+      "Pain",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Cool with running water",
+      "Cover with sterile cloth",
+      "Do not apply ice",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Cut Case 192",
+    "description": "Break in the skin caused by a sharp object.",
+    "symptoms": [
+      "Bleeding",
+      "Pain",
+      "Redness"
+    ],
+    "immediate_steps": [
+      "Wash with clean water",
+      "Apply antiseptic",
+      "Cover with bandage"
+    ]
+  },
+  {
+    "name": "Sprain Case 193",
+    "description": "Stretching or tearing of ligaments around a joint.",
+    "symptoms": [
+      "Pain",
+      "Swelling",
+      "Bruising"
+    ],
+    "immediate_steps": [
+      "Rest the joint",
+      "Apply ice",
+      "Compress",
+      "Elevate"
+    ]
+  },
+  {
+    "name": "Fracture Case 194",
+    "description": "Break or crack in a bone.",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Deformity"
+    ],
+    "immediate_steps": [
+      "Immobilize area",
+      "Apply ice",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Nosebleed Case 195",
+    "description": "Bleeding from the nose.",
+    "symptoms": [
+      "Nose bleeding",
+      "Pressure in nose"
+    ],
+    "immediate_steps": [
+      "Sit forward",
+      "Pinch soft part of nose",
+      "Apply cold compress"
+    ]
+  },
+  {
+    "name": "Choking Case 196",
+    "description": "Airway obstruction due to food or object.",
+    "symptoms": [
+      "Coughing",
+      "Unable to speak",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Encourage coughing",
+      "Heimlich maneuver",
+      "Call emergency services"
+    ]
+  },
+  {
+    "name": "Allergic Reaction Case 197",
+    "description": "Immune response causing swelling or rash.",
+    "symptoms": [
+      "Swelling",
+      "Rash",
+      "Itching"
+    ],
+    "immediate_steps": [
+      "Remove trigger",
+      "Administer antihistamine",
+      "Seek medical help if severe"
+    ]
+  },
+  {
+    "name": "Heat Stroke Case 198",
+    "description": "Overheating of the body due to prolonged heat.",
+    "symptoms": [
+      "High temperature",
+      "Dizziness",
+      "Nausea"
+    ],
+    "immediate_steps": [
+      "Move to shade",
+      "Cool with water",
+      "Hydrate",
+      "Seek medical help"
+    ]
+  },
+  {
+    "name": "Hypothermia Case 199",
+    "description": "Dangerously low body temperature.",
+    "symptoms": [
+      "Shivering",
+      "Confusion",
+      "Slow breathing"
+    ],
+    "immediate_steps": [
+      "Warm environment",
+      "Remove wet clothes",
+      "Blanket",
+      "Seek urgent help"
+    ]
+  },
+  {
+    "name": "Poisoning Case 200",
+    "description": "Harmful ingestion of toxic substances.",
+    "symptoms": [
+      "Vomiting",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "immediate_steps": [
+      "Call poison control",
+      "Do not induce vomiting",
+      "Seek urgent medical attention"
+    ]
+  }
+]

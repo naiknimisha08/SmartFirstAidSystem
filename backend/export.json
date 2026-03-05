@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32add5"
+  },
+  "name": "Burn Case 1",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32add6"
+  },
+  "name": "Burn Case 2",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32add7"
+  },
+  "name": "Burn Case 3",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32add8"
+  },
+  "name": "Burn Case 4",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32add9"
+  },
+  "name": "Burn Case 5",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32adda"
+  },
+  "name": "Cut Case 1",
+  "description": "Small break in the skin caused by sharp objects.",
+  "symptoms": [
+    "Bleeding",
+    "Pain",
+    "Redness"
+  ],
+  "immediate_steps": [
+    "Clean the wound with water",
+    "Apply antiseptic",
+    "Cover with sterile bandage",
+    "Seek medical help if deep"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32addb"
+  },
+  "name": "Cut Case 2",
+  "description": "Small break in the skin caused by sharp objects.",
+  "symptoms": [
+    "Bleeding",
+    "Pain",
+    "Redness"
+  ],
+  "immediate_steps": [
+    "Clean the wound with water",
+    "Apply antiseptic",
+    "Cover with sterile bandage",
+    "Seek medical help if deep"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32addc"
+  },
+  "name": "Cut Case 3",
+  "description": "Small break in the skin caused by sharp objects.",
+  "symptoms": [
+    "Bleeding",
+    "Pain",
+    "Redness"
+  ],
+  "immediate_steps": [
+    "Clean the wound with water",
+    "Apply antiseptic",
+    "Cover with sterile bandage",
+    "Seek medical help if deep"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32addd"
+  },
+  "name": "Cut Case 4",
+  "description": "Small break in the skin caused by sharp objects.",
+  "symptoms": [
+    "Bleeding",
+    "Pain",
+    "Redness"
+  ],
+  "immediate_steps": [
+    "Clean the wound with water",
+    "Apply antiseptic",
+    "Cover with sterile bandage",
+    "Seek medical help if deep"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a87ba94c032e2d4e32adde"
+  },
+  "name": "Cut Case 5",
+  "description": "Small break in the skin caused by sharp objects.",
+  "symptoms": [
+    "Bleeding",
+    "Pain",
+    "Redness"
+  ],
+  "immediate_steps": [
+    "Clean the wound with water",
+    "Apply antiseptic",
+    "Cover with sterile bandage",
+    "Seek medical help if deep"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a90fbf0973fb94a19a7e29"
+  },
+  "name": "Burn Case 1",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a90fbf0973fb94a19a7e2a"
+  },
+  "name": "Burn Case 2",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a90fbf0973fb94a19a7e2b"
+  },
+  "name": "Burn Case 3",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a90fbf0973fb94a19a7e2c"
+  },
+  "name": "Burn Case 4",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a90fbf0973fb94a19a7e2d"
+  },
+  "name": "Burn Case 5",
+  "description": "Skin damage caused by heat, chemicals, electricity, or radiation.",
+  "symptoms": [
+    "Redness",
+    "Blisters",
+    "Pain",
+    "Swelling"
+  ],
+  "immediate_steps": [
+    "Cool with running water",
+    "Cover with sterile cloth",
+    "Do not apply ice",
+    "Seek medical help if severe"
+  ]
+}]

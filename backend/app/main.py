@@ -1,3 +1,5 @@
+# main.py
+import os
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
@@ -6,10 +8,14 @@ from pymongo import MongoClient
 # ==============================
 # MongoDB Atlas Connection
 # ==============================
-MONGO_URL = "mongodb+srv://naiknimisha2007_db_user:NaiknimishaDB08@smartfirstaidcluster.b8w3m7q.mongodb.net/SmartFirstAidDB?retryWrites=true&w=majority"
+import os
+from pymongo import MongoClient
+
+# Get MongoDB URI from environment variables
+MONGO_URL = os.getenv("MONGODB_URI")
 client = MongoClient(MONGO_URL, tls=True)
 db = client["SmartFirstAidDB"]
-collection = db["tips"]
+collection = db["injuries_structured"]
 
 # ==============================
 # FastAPI App
@@ -17,54 +23,103 @@ collection = db["tips"]
 app = FastAPI(title="AI Cloud Smart First Aid System", version="2.0")
 
 # ==============================
-# CORS
+# CORS (allow frontend requests)
 # ==============================
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # For local dev. Can restrict to frontend URL in production
+    allow_origins=["*"],  # Dev only, restrict in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+# Root endpoint for testing
+@app.get("/")
+def root():
+    return {"message": "Smart First Aid Backend is live!"}
+# ==============================
+# Projection helper for lang
+# ==============================
+def get_projection(lang: str):
+    if lang.lower() == "hi":
+        return {
+            "_id": 0,
+            "type": 1,
+            "name_hi": 1,
+            "description_hi": 1,
+            "symptoms_hi": 1,
+            "immediate_steps_hi": 1
+        }
+    else:
+        return {
+            "_id": 0,
+            "type": 1,
+            "name": 1,
+            "description": 1,
+            "symptoms": 1,
+            "immediate_steps": 1
+        }
 
 # ==============================
-# Existing Endpoints
+# Frontend card endpoints
 # ==============================
 @app.get("/firstaid/guidance", tags=["firstaid"])
-def guidance():
-    data = list(collection.find({}, {"_id": 0, "condition": 1, "solution": 1}))
+def guidance(lang: str = Query("en", description="Language: en or hi")):
+    data = list(collection.find({}, get_projection(lang)))
     return JSONResponse(content=data)
 
 @app.get("/firstaid/symptoms", tags=["firstaid"])
-def symptoms():
-    data = list(collection.find({}, {"_id": 0, "condition": 1, "symptoms": 1}))
+def symptoms(lang: str = Query("en", description="Language: en or hi")):
+    data = list(collection.find({}, get_projection(lang)))
     return JSONResponse(content=data)
 
 @app.get("/firstaid/treatment", tags=["firstaid"])
-def treatment():
-    data = list(collection.find({}, {"_id": 0, "condition": 1, "solution": 1}))
+def treatment(lang: str = Query("en", description="Language: en or hi")):
+    data = list(collection.find({}, get_projection(lang)))
     return JSONResponse(content=data)
 
 # ==============================
-# 🔹 New Full Search Endpoint
+# Search endpoint
 # ==============================
-@app.get("/firstaid", tags=["firstaid"])
-def search_tip(query: str = Query(..., description="Search first aid tip by condition, symptoms, or solution")):
-    """
-    Search tips by condition, symptoms, or solution (case-insensitive, partial match).
-    Returns all matching tips from the 'tips' collection.
-    """
-    # MongoDB OR query for condition, symptoms, or solution fields
-    result = list(
+@app.get("/search/", tags=["firstaid"])
+def search_injury(q: str = Query(..., description="Search term"), lang: str = Query("en")):
+    projection = get_projection(lang)
+    # 1️⃣ Exact / starts-with match on name
+    name_field = "name_hi" if lang.lower() == "hi" else "name"
+    name_matches = list(
         collection.find(
-            {
-                "$or": [
-                    {"condition": {"$regex": query, "$options": "i"}},
-                    {"symptoms": {"$regex": query, "$options": "i"}},
-                    {"solution": {"$regex": query, "$options": "i"}}
-                ]
-            },
-            {"_id": 0}  # Exclude MongoDB _id
+            {name_field: {"$regex": f"^{q}", "$options": "i"}},
+            projection
         )
     )
-    return JSONResponse(content=result)
+    if name_matches:
+        return JSONResponse(content=name_matches)
+
+    # 2️⃣ If no name match, search description
+    desc_field = "description_hi" if lang.lower() == "hi" else "description"
+    desc_matches = list(
+        collection.find(
+            {desc_field: {"$regex": q, "$options": "i"}},
+            projection
+        )
+    )
+    return JSONResponse(content=desc_matches)
+
+# ==============================
+# Single injury endpoint
+# ==============================
+@app.get("/injury/{name}", tags=["firstaid"])
+def get_injury(name: str, lang: str = Query("en")):
+    projection = get_projection(lang)
+    name_field = "name_hi" if lang.lower() == "hi" else "name"
+    injury = collection.find_one({name_field: {"$regex": name, "$options": "i"}}, projection)
+    if injury:
+        return injury
+    return {"error": "Injury not found"}
+
+# ==============================
+# Debug / test endpoint
+# ==============================
+@app.get("/debug", tags=["firstaid"])
+def debug_db():
+    docs = list(collection.find({}, {"_id": 0}))
+    return {"count": len(docs), "sample": docs[:3]}
